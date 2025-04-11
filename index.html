@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/styles.css" />
+    <title>Albums Μουσικής</title>
+  </head>
+
+  <body>
+    <h1>Top 5 most streamed albums on Spotify of all time</h1>
+    <div class="buttons">
+      <button
+        class="button showAlbums"
+        onclick="loadXMLDoc(); unhideButtons();"
+      >
+        Show Albums
+      </button>
+      <div class="sortButtons">
+        <button class="button sortAlbums" onclick="sortAlbums('artist');">
+          Sort by Artist
+        </button>
+        <button class="button sortAlbums" onclick="sortAlbums('year');">
+          Sort By Year
+        </button>
+        <button class="button sortAlbums" onclick="sortAlbums('streams');">
+          Sort By Streams
+        </button>
+      </div>
+    </div>
+    <div class="pinakas">
+      <table id="list"></table>
+    </div>
+  </body>
+  <script src="script/script.js"></script>
+</html>

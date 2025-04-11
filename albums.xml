@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<albums>
+    <album>
+        <name>Un Verano Sin Ti</name>
+        <artist>Bad Bunny</artist>
+        <year>2022</year>
+        <streams>19.061.442.263	</streams>
+    </album>
+    <album>
+        <name>Starboy</name>
+        <artist>The Weeknd</artist>
+        <year>2016</year>
+        <streams>16.521.777.405</streams>
+    </album>
+    <album>
+        <name>÷</name>
+        <artist>Ed Sheeran</artist>
+        <year>2017</year>
+        <streams>16.174.472.956</streams>
+    </album>
+    <album>
+        <name>SOUR</name>
+        <artist>Olivia Rodrigo</artist>
+        <year>2021</year>
+        <streams>14.562.986.719</streams>
+    </album>
+    <album>
+        <name>After Hours</name>
+        <artist>The Weeknd</artist>
+        <year>2020</year>
+        <streams>14.082.490.411</streams>
+    </album>
+</albums>
