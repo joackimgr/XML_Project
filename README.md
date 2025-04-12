@@ -1,0 +1,1 @@
+This is a project for my university course "Programming on the World Wide Web". In this project I import an XML file containing the top 5 albums of all time into index.html and provide functionality to sort the albums by streams, relase year or artist using buttons
